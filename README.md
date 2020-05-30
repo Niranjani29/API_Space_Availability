@@ -45,6 +45,8 @@ Postman is a popular API client that makes it easy for developers to create, sha
 4.	Put the “hid” object, the parameter we need to find the result of.
 5.	I also changed the format to JSON, under Body section. 
 6.	Hit the Send button
+
+
 <b>Output : </b>
 
       {
@@ -53,5 +55,7 @@ Postman is a popular API client that makes it easy for developers to create, sha
       }
 
 <b>Screenshot: </b>
+
+<img src='https://github.com/Niranjani29/API_Space_Availability/blob/master/Screenshot%202020-05-27%2013.47.17.png'>
 
  	
